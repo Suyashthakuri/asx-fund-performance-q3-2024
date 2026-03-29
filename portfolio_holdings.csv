@@ -1,0 +1,21 @@
+ticker,name,sector,weight,beta
+CBA.AX,Commonwealth Bank,Financials,0.082,0.85
+WBC.AX,Westpac Banking,Financials,0.048,0.9
+ANZ.AX,ANZ Group,Financials,0.041,0.88
+MQG.AX,Macquarie Group,Financials,0.055,1.15
+BHP.AX,BHP Group,Materials,0.092,1.05
+RIO.AX,Rio Tinto,Materials,0.058,1.02
+FMG.AX,Fortescue,Materials,0.031,1.35
+MIN.AX,Mineral Resources,Materials,0.024,1.45
+CSL.AX,CSL Limited,Healthcare,0.078,0.72
+RMD.AX,ResMed,Healthcare,0.035,0.8
+COH.AX,Cochlear,Healthcare,0.028,0.75
+WTC.AX,WiseTech Global,Technology,0.042,1.28
+XRO.AX,Xero Limited,Technology,0.038,1.22
+CPU.AX,Computershare,Technology,0.029,0.95
+WES.AX,Wesfarmers,Consumer Disc,0.062,0.9
+WOW.AX,Woolworths Group,Consumer Staples,0.045,0.62
+TLS.AX,Telstra Group,Telecoms,0.038,0.7
+TCL.AX,Transurban,Infrastructure,0.032,0.55
+SHL.AX,Sonic Healthcare,Healthcare,0.022,0.68
+GMG.AX,Goodman Group,Real Estate,0.021,0.88

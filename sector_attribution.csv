@@ -1,0 +1,10 @@
+sector,fund_weight,bench_weight,active_weight,sector_return,contribution_pct,allocation_effect,selection_effect,total_attribution
+Financials,22.6,28.8,-6.2,-2.45,-0.553,0.504,1.634,2.138
+Consumer Disc,6.2,6.8,-0.6,9.99,0.619,0.049,1.231,1.28
+Consumer Staples,4.5,5.8,-1.3,5.77,0.26,0.106,0.806,0.912
+Telecoms,3.8,3.8,0.0,-2.34,-0.089,-0.0,0.22,0.22
+Infrastructure,3.2,3.2,0.0,-4.62,-0.148,-0.0,0.112,0.112
+Healthcare,16.3,10.2,6.1,-2.51,-0.409,-0.496,0.573,0.077
+Technology,10.9,4.8,6.1,2.56,0.279,-0.496,0.513,0.017
+Real Estate,2.1,3.5,-1.4,-12.92,-0.271,0.114,-0.168,-0.054
+Materials,20.5,19.8,0.7,-11.95,-2.45,-0.057,-0.758,-0.815

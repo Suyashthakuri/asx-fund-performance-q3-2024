@@ -1,0 +1,21 @@
+ticker,name,sector,weight_pct,return_pct,contribution
+XRO.AX,Xero Limited,Technology,3.8,18.83,0.716
+WES.AX,Wesfarmers,Consumer Disc,6.2,9.99,0.619
+WOW.AX,Woolworths Group,Consumer Staples,4.5,5.77,0.26
+MQG.AX,Macquarie Group,Financials,5.5,3.13,0.172
+CSL.AX,CSL Limited,Healthcare,7.8,0.98,0.076
+SHL.AX,Sonic Healthcare,Healthcare,2.2,-0.1,-0.002
+COH.AX,Cochlear,Healthcare,2.8,-1.37,-0.038
+TLS.AX,Telstra Group,Telecoms,3.8,-2.34,-0.089
+ANZ.AX,ANZ Group,Financials,4.1,-2.3,-0.094
+WBC.AX,Westpac Banking,Financials,4.8,-3.05,-0.146
+WTC.AX,WiseTech Global,Technology,4.2,-3.49,-0.147
+TCL.AX,Transurban,Infrastructure,3.2,-4.62,-0.148
+CPU.AX,Computershare,Technology,2.9,-8.6,-0.249
+GMG.AX,Goodman Group,Real Estate,2.1,-12.92,-0.271
+MIN.AX,Mineral Resources,Materials,2.4,-16.19,-0.389
+RMD.AX,ResMed,Healthcare,3.5,-13.32,-0.466
+CBA.AX,Commonwealth Bank,Financials,8.2,-6.61,-0.542
+FMG.AX,Fortescue,Materials,3.1,-20.28,-0.629
+BHP.AX,BHP Group,Materials,9.2,-7.74,-0.712
+RIO.AX,Rio Tinto,Materials,5.8,-13.05,-0.757
